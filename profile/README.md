@@ -1,4 +1,10 @@
-## 👋 Wellcome to [Ruresell.me](https://www.ruresell.me/en "Organization's Site") organization. 
-### You can find everything we do here. Almost all of our projects are open source and absolutely free. Use it for fun!
-## 📧 To contact us, write to us in Telegram or by E-Mail.
-### Use [Telegram](https://ruresell_support.t.me/ "Support") or [E-Mail](mailto:admin@ruresell.me "Support E-Mail")
+# 👋 Wellcome!  
+
+This is [ruresell.me](https://www.ruresell.me/en "Organization Webite") public organization.
+You can find everything we do here. 
+Almost all of our projects are open source and absolutely free. 
+Use them for fun!
+
+## 📧 Contact
+
+You can contact us uisng [Telegram](https://ruresell_support.t.me/ "Support Chat") or [Email](mailto:admin@ruresell.me "Support Email")
