@@ -7,4 +7,4 @@ Use them for fun!
 
 ## 📧 Contact
 
-You can contact us uisng [Telegram](https://ruresell_support.t.me/ "Support Chat") or [Email](mailto:admin@ruresell.me "Support Email")
+You can contact us uisng [Email](mailto:admin@ruresell.me "Support Email")
